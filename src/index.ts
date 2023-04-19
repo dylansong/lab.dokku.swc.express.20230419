@@ -6,7 +6,7 @@ import express from 'express';
 const app = express();
 
 app.get('/', (req, res) => {
-    res.send('Hello World!Express应用');
+    res.send('Hello World!Express应用V2');
 })
 
 app.listen(5000, () => {
