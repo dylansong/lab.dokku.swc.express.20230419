@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --watch src src/index.ts",
-    "build": "swc src -d dist",
+    "build": "swc src -d dist"
   },
   "keywords": [],
   "author": "",
